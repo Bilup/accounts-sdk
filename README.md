@@ -1,5 +1,8 @@
 # accounts-sdk
 
+> [!WARNING]
+> This repository is archived due to accounts.bilup.org is now down. Sorry for the inconvenice.
+
 Bilup's mod of **rotur-sdk** — a typed client SDK for the Accounts API (formerly Rotur).
 
 The SDK wraps the full platform API in a single library:
